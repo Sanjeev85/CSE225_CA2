@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ToolBar">
+
+    <item
+        android:id="@+id/action_instructions"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_add_alert_24"
+        android:orderInCategory="1"
+        android:title="Instructions"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/time_remaining"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_timer_24"
+        android:orderInCategory="2"
+        android:title="Time Remaining"
+        app:showAsAction="always" />
+</menu>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CA2</string>
+    <string name="text_with_paragraphs">
+       <b>Lorem Ipsum\n</b>
+"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus a mauris vel tincidunt. Suspendisse vulputate diam tortor, sed fermentum elit tincidunt quis. Pellentesque fermentum, tellus id euismod feugiat, nisi felis tristique est, sollicitudin rutrum ante purus vitae lacus. Nunc interdum venenatis ex ac dapibus. In vitae consectetur lectus. Phasellus ac pretium felis, sed tempor ipsum. Maecenas suscipit placerat erat vitae gravida. Ut fermentum ante id lorem condimentum, vitae auctor felis accumsan. Nullam ultrices nibh id metus tristique laoreet. Duis eget nibh eu turpis sagittis maximus ac id neque.
+\n\n
+Vestibulum mattis iaculis viverra. Integer tempus odio felis, ac efficitur lacus eleifend vel. Suspendisse sit amet maximus lacus. Cras a neque vitae quam viverra egestas in nec leo. Nulla posuere nunc quis nunc luctus aliquet. Cras varius placerat nisl at scelerisque. Duis porttitor ornare sapien, a tincidunt dui posuere sit amet. Curabitur pellentesque nec tortor eget interdum. Nunc sodales pulvinar efficitur. Pellentesque diam eros, viverra id finibus eget, sollicitudin non quam. Aenean eget volutpat velit. Nullam quis leo lobortis, sagittis neque ac, ultrices magna. Sed tincidunt quis mi in bibendum. Duis eu dapibus urna. Etiam volutpat tellus id quam semper ornare. Pellentesque eu auctor ipsum, sed lobortis libero.
+
+Sed mollis, purus vitae egestas commodo, ante tortor varius odio, quis congue ante felis ut dolor. Proin consequat finibus rhoncus. Proin quis lectus nunc. Vivamus convallis elit at dolor maximus vehicula. Cras mollis felis mauris, at fringilla nisi venenatis nec. Aliquam elit tellus, fermentum eu orci in, tristique convallis massa. Vestibulum convallis felis in tellus lobortis, id interdum ex dictum. Fusce euismod turpis risus, eu fermentum nisi sollicitudin non. Maecenas id mi ipsum. In tincidunt maximus leo vel lobortis. Nunc blandit leo faucibus leo finibus, sit amet aliquam libero elementum. Praesent non euismod urna. Aliquam ullamcorper luctus lorem ut aliquet.
+\n\n
+Praesent at auctor tortor. Maecenas at ornare elit, nec fringilla quam. Nunc vitae odio nec erat fringilla rutrum. Curabitur vitae lorem ultrices, euismod neque mollis, ornare odio. Vestibulum porttitor porta posuere. Quisque id tincidunt risus. Phasellus condimentum velit aliquet, ornare tortor in, ultrices ex. Duis lacinia metus massa, id laoreet nibh varius non. Praesent ullamcorper in magna nec iaculis. Pellentesque sed massa non leo sagittis imperdiet sit amet interdum velit.
+
+Suspendisse tincidunt suscipit massa non mattis. Donec eu commodo mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce congue iaculis est, id mattis lectus. Etiam ac est porttitor, ornare nunc mattis, porttitor lorem. Nam lobortis lorem purus, non ultricies magna sagittis porta. Cras blandit, odio at tincidunt hendrerit, purus elit cursus ex, nec eleifend elit turpis fermentum ipsum. Vestibulum sodales diam sed fringilla egestas. Nam finibus libero vel volutpat convallis. Vestibulum a fermentum eros. Curabitur bibendum velit at sapien auctor, eget pulvinar ipsum mattis. Pellentesque nec condimentum velit. Nullam blandit id lorem a porta. Nam eget hendrerit est, et sagittis arcu. Fusce posuere sem ut metus vulputate posuere.
+\n\n
+    </string>
+</resources>
